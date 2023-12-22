@@ -1,4 +1,3 @@
-![LangChain](https://repository-images.githubusercontent.com/638822415/4d2a0cb5-e353-4182-933c-7935468d8f55)
 # Kinsta - Hello World - LangChainJS
 
 An example of how to deploy an Express application with [LangChainJS](https://js.langchain.com) on Kinsta App Hosting services.
